@@ -1,0 +1,11 @@
+/* Center All Filters */
+#controlersPanel {
+ text-align: center;
+}
+
+/* Modify text font-size and alignment */
+.google-visualization-table-table {
+ max-width:400px;
+ text-align:right;
+ font-size:12pt!important;
+}
